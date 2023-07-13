@@ -1,0 +1,16 @@
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\bin\Debug\net5.0\csFull.exe
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\bin\Debug\net5.0\csFull.deps.json
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\bin\Debug\net5.0\csFull.runtimeconfig.json
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\bin\Debug\net5.0\csFull.runtimeconfig.dev.json
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\bin\Debug\net5.0\csFull.dll
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\bin\Debug\net5.0\csFull.pdb
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.csproj.AssemblyReference.cache
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.GeneratedMSBuildEditorConfig.editorconfig
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.AssemblyInfoInputs.cache
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.AssemblyInfo.cs
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.csproj.CoreCompileInputs.cache
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.dll
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\refint\csFull.dll
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.pdb
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\csFull.genruntimeconfig.cache
+D:\0p\036csCourseEssamAbdElnabi\csFull\csFull\obj\Debug\net5.0\ref\csFull.dll
